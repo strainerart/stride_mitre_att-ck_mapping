@@ -1,5 +1,5 @@
 # stride_mitre_att&ck_mapping
-STRIDE threat modeling with MITRE ATT&amp;CK Mapping for DevSecOps in IT/OT
+STRIDE threat modeling with MITRE ATT&amp;CK Mapping for DevSecOps and AppSec in both IT and ICS/OT
 
 STRIDE_THREAT_MODEL_ENTERPRISE_MITRE_ATTACK_v1.pdf - printable version
 
